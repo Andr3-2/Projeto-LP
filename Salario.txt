@@ -1,0 +1,10 @@
+-------Salarios-------
+Mes: 6  Ano: 2000 
+
+Codigo: 1  Nome: teste1  Salario: 1323.30 
+
+Codigo: 2  Nome: teste2  Salario: 2119.20 
+
+Codigo: 3  Nome: teste3  Salario: 1764.96 
+
+Gastos Empresa: 5206 
